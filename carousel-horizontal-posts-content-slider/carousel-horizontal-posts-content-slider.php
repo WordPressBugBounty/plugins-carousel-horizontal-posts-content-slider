@@ -2,7 +2,7 @@
 /* 
 *	Plugin Name: Carousel horizontal posts content slider
 *	Description: A simple posts content slider, product, images, videos, related posts, custom post type carousel plugin for WordPress.
-*	Version: 3.3.1
+*	Version: 3.3.2
 *	Author: subhansanjaya
 *	Author URI: http://www.weaveapps.com
 */
@@ -28,6 +28,8 @@ class Carousel_Horizontal_Posts_Content_Slider {
 
 	private $options = array();
 	private $tabs = array();
+	public $choices;
+	public $loading_places;
 
 	public function __construct() {
 

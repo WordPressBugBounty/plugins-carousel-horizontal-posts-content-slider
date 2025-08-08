@@ -4,10 +4,10 @@ Author: subhansanjaya
 Author URI: http://www.weaveapps.com
 Plugin URI: http://wordpress.org/plugins/carousel-horizontal-posts-content-slider/
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BXBCGCKDD74UE
-Tags: posts slider, content slider, carousel, posts content slider,Horizontal Wordpress Slider, Carousel Slider, Image Horizontal Slider, Wordpress Horizontal Posts slider, Horizontal content slider, Wordpress slider, Horizontal posts content slider, responsive post slider, responsive posts content slider, vertical slider, post carousel, posts carousel, caroufredsel,page carousel,pages slider,page,slider,carousel,post content slider,post type slider,custom post type,portfolio slider,wordpress post slider,wp slider,carousel,responsive post slider,responsive posts content slider,responsive page slider,post-page slider,post page slider,post, posts slider,post slider,pages content slider, featured image slider, featured image carousel, thumbnail image, thumbnail, banner rotator, testimonial scroller,image ticker,recent post slider,responsive carousel,logo scroller,news slider,best posts content slider, best post slider, advance post slider,logo scroller,featured posts slider, company logo slider, wordpress post slider,related posts slider, related posts, most viewed posts, newest posts slider, related posts carousel,custom post type slider, any post type slider, wp post slider
+Tags: posts slider, posts content slider, posts carousel, carousel
 Requires at least: 3.6
-Tested up to: 6.2
-Stable tag: 3.3.1
+Tested up to: 6.8
+Stable tag: 3.3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	
@@ -93,6 +93,10 @@ Scripts of the plugin can be disabled or enabled via CHPC Slider > Settings.
 Multiple sliders: Please note you can’t use the same slider in a page more than once because the ids can’t be duplicated. You should duplicate your slider and add the new slider to the page once again, if you would like to use it more than once.
 
 ==changelog==
+**Version 3.3.2**
+Fix - Updated some deprecated notices
+Tested with current wordpress version
+
 **Version 3.3.1**
 Fix - Transition not working
 
